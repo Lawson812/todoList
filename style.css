@@ -1,9 +1,13 @@
 *{
     font-family:bree serif;
+    color:darkslategrey;
+}
+body{
+    background-image: url(https://pixabay.com/get/e834b30729f0013ed1584d05fb0938c9bd22ffd41db8124696f0c271a4/coffee-1128140_1280.jpg)
 }
 #todoListing{
-    background-color:cornflowerblue;
     border:1px black solid;
+    background-color:rgba(255,255,255,0.6);
     width:auto;
     height:50%;
     text-align: center;
