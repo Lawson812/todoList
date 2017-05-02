@@ -1,0 +1,33 @@
+*{
+    font-family:bree serif;
+}
+#todoListing{
+    background-color:cornflowerblue;
+    border:1px black solid;
+    width:auto;
+    height:50%;
+    text-align: center;
+    
+    }
+input{
+    margin-bottom:0px;
+    width:20%;
+    height:10%; 
+    
+}
+button{
+border:none;
+background-color:coral;
+border-radius:5%;
+width:10%;
+height:10%;
+}
+ul{
+list-style: none;
+}
+.myList{
+    width:20vw;
+    height:auto;
+    text-align:left;
+    margin-left:10%;
+}
